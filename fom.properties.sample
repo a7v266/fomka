@@ -1,0 +1,14 @@
+protocol=fom
+email.source=
+email.destination=
+smtp.host=
+smtp.port=
+imap.host=
+imap.port=
+username=
+password=
+upload.size=30
+upload.path=data/upload
+download.path=data/download
+cover.path=data/cover.jpeg
+lookup.depth=100
